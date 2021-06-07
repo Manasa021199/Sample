@@ -1,0 +1,13 @@
+public class arrays {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float sc[]= {0.02f,16.5f,12.5f};
+		for(int i=0;i<sc.length;i++)
+		{
+			System.out.println("Score is :"+sc[i]);
+		}
+
+	}
+
+}
